@@ -1,0 +1,4 @@
+baseURL = 'https://thovn.github.io/'
+languageCode = 'vi-vn'
+title = 'Thơ VN'
+theme = 'dream'

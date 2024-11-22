@@ -1,4 +1,26 @@
 baseURL = 'https://thovn.github.io/'
+defaultContentLanguage = "vi"
 languageCode = 'vi-vn'
 title = 'Thơ VN'
 theme = 'dream'
+
+[params]
+zenMode = true
+
+lightTheme = "emerald"
+darkTheme = "forest"
+
+images = ["me/background.jpg"]
+
+author = "TAn"
+description = "The life record of TAN is presented here."
+avatar = "me/avatar.png"
+headerTitle = "TAn 的博客"
+motto = "Instead of lamenting that the road is difficult, it is better to set off immediately。"
+
+siteStartYear = 2024
+
+favicon = "favicon.ico"
+
+# Syntax highlighting
+customSyntaxHighlighting = true

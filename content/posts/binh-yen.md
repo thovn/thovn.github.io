@@ -16,8 +16,8 @@ tags:
 draft: false
 ---
 
-Bình yên là gì..? 🤨
-Là khi tiền vẫn còn trong ví 😏
-Là chồng về lí nhí đưa lương
-Có đi cả khắp phố phường
+Bình yên là gì..? 🤨  
+Là khi tiền vẫn còn trong ví 😏  
+Là chồng về lí nhí đưa lương  
+Có đi cả khắp phố phường  
 Đừng quên cuối tháng nhận lương hỡi chàng.

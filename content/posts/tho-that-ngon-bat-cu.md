@@ -1,6 +1,6 @@
 ---
 title: Cách làm thơ thất ngôn bát cú
-date: 2024-12-11T17:23:31+07:00
+date: 2024-12-17T17:23:31+07:00
 author: TAn
 cover: posts/lam-tho-that-ngon-bat-cu-2.jpg
 images:

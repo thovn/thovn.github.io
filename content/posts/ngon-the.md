@@ -15,7 +15,7 @@ tags:
 draft: false
 ---
 
-Hỏi anh đang ăn gì ngon thế  
+Hỏi anh đang ăn gì, ngon thế  
 Có bớt được chăng, một chút đê  
 Món này khiến lòng say đắm đuối  
 Hương thơm lan tỏa khắp mọi bề  

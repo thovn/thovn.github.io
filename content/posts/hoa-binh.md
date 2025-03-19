@@ -29,6 +29,13 @@ Còn lại chỉ có buồn vui nỗi sầu.
 
 ----
 
+Dòng sông cách trở đôi bờ,  
+Anh như thương lái, đứng chờ ngóng trông  
+Em về Thanh Hóa theo chồng  
+Anh về Phú Thọ làm chồng người ta.
+
+----
+
 Rượu cần Phú thọ rất ngon  
 Cơm lam mía ngọt măng non thịt gà  
 Thủy điện to nhất đây mà  

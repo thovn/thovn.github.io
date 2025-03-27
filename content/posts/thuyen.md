@@ -1,5 +1,5 @@
 ---
-title: [1/104] Thuyền
+title: "[1/104] Thuyền"
 date: 2025-03-26T23:59:59+07:00
 author: Thuyền
 cover: posts/Write-Before-Petal3.jpg

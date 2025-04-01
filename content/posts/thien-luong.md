@@ -1,6 +1,6 @@
 ---
 title: "[2/104] Thiện lương"
-date: 2025-04-01T01:59:59+07:00
+date: 2025-04-01T01:02:03+07:00
 author: Thiện
 cover: posts/Write-Before-Petal3.jpg
 images:

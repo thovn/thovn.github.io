@@ -2,9 +2,9 @@
 title: "[2/104] Thiện lương"
 date: 2025-04-01T01:02:03+07:00
 author: Thiện
-cover: posts/Write-Before-Petal3.jpg
+cover: /posts/Write-Before-Petal3.jpg
 images:
-  - posts/Write-Before-Petal3.jpg
+  - /posts/Write-Before-Petal3.jpg
 categories:
   - thơ
   - lục bát

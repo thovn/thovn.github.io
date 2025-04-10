@@ -2,9 +2,9 @@
 title: Cách làm thơ thất ngôn bát cú
 date: 2024-12-17T17:23:31+07:00
 author: TAn
-cover: posts/lam-tho-that-ngon-bat-cu-2.jpg
+cover: /posts/lam-tho-that-ngon-bat-cu-2.jpg
 images:
-  - posts/lam-tho-that-ngon-bat-cu-2.jpg
+  - /posts/lam-tho-that-ngon-bat-cu-2.jpg
 categories:
   - thơ
   - thất ngôn bát cú

@@ -2,9 +2,9 @@
 title: Tốt Thôi
 date: 2025-03-05T17:23:31+07:00
 author: TAn
-cover: posts/Write-Before-Petal3.jpg
+cover: /posts/Write-Before-Petal3.jpg
 images:
-  - posts/Write-Before-Petal3.jpg
+  - /posts/Write-Before-Petal3.jpg
 categories:
   - thơ
   - lục bát

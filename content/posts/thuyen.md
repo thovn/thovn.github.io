@@ -2,9 +2,9 @@
 title: "[1/104] Thuyền"
 date: 2025-03-26T23:59:59+07:00
 author: Thuyền
-cover: posts/Write-Before-Petal3.jpg
+cover: /posts/Write-Before-Petal3.jpg
 images:
-  - posts/Write-Before-Petal3.jpg
+  - /posts/Write-Before-Petal3.jpg
 categories:
   - thơ
   - lục bát

@@ -4,9 +4,9 @@ date: 2024-12-11T17:23:31+07:00
 author: TAn
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: img/0e60152dcb9a71c4288b.jpg
+cover: /img/0e60152dcb9a71c4288b.jpg
 images:
-  - img/0e60152dcb9a71c4288b.jpg
+  - /img/0e60152dcb9a71c4288b.jpg
 categories:
   - thơ
 tags:

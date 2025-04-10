@@ -4,9 +4,9 @@ date: 2024-11-24T17:23:31+07:00
 author: TAn
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: posts/Write-Before-Petal3.jpg
+cover: /posts/Write-Before-Petal3.jpg
 images:
-  - posts/Write-Before-Petal3.jpg
+  - /posts/Write-Before-Petal3.jpg
 categories:
   - thơ
   - hr
